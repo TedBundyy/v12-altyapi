@@ -2,9 +2,9 @@
   "name": "kayizeraltyapi",
   "version": "0.0.1",
   "description": "",
-  "main": "kayizer.js",
+  "main": "gifstory.js",
   "scripts": {
-    "test": "node kayizer.js"
+    "test": "node bot.js"
   },
   "author": "Arhan",
   "license": "ISC",
