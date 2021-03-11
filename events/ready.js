@@ -13,6 +13,6 @@ module.exports = client => {
   /// Online = Çevrimici
   /// dnd = Rahatsız Etme
   /// idle = Meşgul
-  client.user.setActivity(`Kayizer.COM | Kullanıcıları İçin V12 Altyapı!`);
+  client.user.setActivity(`GIF Story | Kullanıcıları İçin V12 Altyapı!`);
   console.log(`[${moment().format('YYYY-MM-DD HH:mm:ss')}] BOT: Oyun ismi ayarlandı!`);
 };
